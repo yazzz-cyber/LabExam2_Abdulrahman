@@ -1,0 +1,36 @@
+[2026-02-23 02:29:11] Login: Successful login for user: admin
+[2026-02-23 02:30:55] Add Student: New student added - Student ID: 432123
+[2026-02-23 05:54:18] Login: Successful login for user: admin
+[2026-02-23 05:54:22] Delete Student: Student deleted successfully - ID: 2
+[2026-02-23 05:54:31] Add Student: New student added - Student ID: 432123
+[2026-02-23 05:54:42] Delete Student: Student deleted successfully - ID: 3
+[2026-02-23 06:09:40] Add Student: New student added - Student ID: 432123
+[2026-02-23 06:10:08] Add Student: New student added - Student ID: 312412
+[2026-02-23 06:10:23] Delete Student: Student deleted successfully - ID: 5
+[2026-02-23 06:10:25] Delete Student: Student deleted successfully - ID: 4
+[2026-02-23 06:10:27] Delete Student: Student deleted successfully - ID: 1
+[2026-02-23 06:11:59] Add Student: New student added - Student ID: 432123
+[2026-02-23 06:12:09] Add Student: New student added - Student ID: 312412
+[2026-02-23 06:12:14] Delete Student: Student deleted successfully - ID: 6
+[2026-02-23 06:12:26] Add Student: New student added - Student ID: 432123
+[2026-02-23 06:12:37] Delete Student: Student deleted successfully - ID: 8
+[2026-02-23 06:12:48] Add Student: New student added - Student ID: 123324
+[2026-02-23 06:12:53] Delete Student: Student deleted successfully - ID: 9
+[2026-02-23 06:12:55] Delete Student: Student deleted successfully - ID: 7
+[2026-02-23 06:14:05] Logout: User logged out - admin
+[2026-02-23 06:21:56] Login: Successful login for user: admin
+[2026-02-23 06:23:21] Add Student: New student added - Student ID: 232123
+[2026-02-23 06:52:33] Dashboard: Query failed - Unknown column 'archived' in 'where clause'
+[2026-02-23 06:52:42] Dashboard: Query failed - Unknown column 'archived' in 'where clause'
+[2026-02-23 06:58:13] Dashboard: Query failed - Unknown column 'archived' in 'where clause'
+[2026-02-23 06:58:14] Dashboard: Query failed - Unknown column 'archived' in 'where clause'
+[2026-02-23 06:58:15] Dashboard: Query failed - Unknown column 'archived' in 'where clause'
+[2026-02-23 06:58:16] Dashboard: Query failed - Unknown column 'archived' in 'where clause'
+[2026-02-23 06:59:34] Delete Student: Student deleted successfully - ID: 10
+[2026-02-23 07:00:55] Add Student: New student added - Student ID: 432123
+[2026-02-23 07:02:51] Delete Student: Student deleted successfully - ID: 11
+[2026-02-23 07:02:59] Add Student: New student added - Student ID: 432123
+[2026-02-23 07:03:07] Add Student: New student added - Student ID: 123324
+[2026-02-23 07:03:12] Delete Student: Student deleted successfully - ID: 2
+[2026-02-23 07:03:15] Delete Student: Student deleted successfully - ID: 1
+[2026-02-23 07:03:56] Add Student: New student added - Student ID: 548526
